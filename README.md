@@ -1,6 +1,7 @@
 # desafio_programacao_warren_proway
 desafio_programacao_warren_proway
-Linguagem utulizada: R
+
+Linguagem: R
 
 Desafio 1
 ```{r}
